@@ -92,4 +92,6 @@ class SimpleStateless extends StatelessWidget {
             ),
             const SizedBox(height: 50),
             Column(
-             
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                
