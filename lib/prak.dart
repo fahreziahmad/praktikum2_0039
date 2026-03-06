@@ -13,3 +13,10 @@ class _CounterManagerState extends State<CounterManager> {
     return SimpleStateless();
   }
 }
+
+class SimpleStateless extends StatelessWidget {
+  const SimpleStateless({
+    super.key,
+  });
+
+ 
