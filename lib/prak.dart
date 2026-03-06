@@ -50,4 +50,14 @@ class SimpleStateless extends StatelessWidget {
               child: Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 60, vertical: 40),
                 child: Column(
-                
+                  children: [
+                    Text(
+                      "Fahrezi Ahmad Syahyana",
+                      style: TextStyle(
+                        letterSpacing: 2,
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.blueGrey.shade900,
+                      ),
+                    ),
+                   
