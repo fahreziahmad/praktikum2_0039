@@ -94,4 +94,21 @@ class SimpleStateless extends StatelessWidget {
             Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                
+                Text(
+                  "Developed by Fahrezi Ahmad Syahyana -\n20230140039",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                    letterSpacing: 2,
+                    fontSize: 15,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.blueGrey.shade800,
+                  ),
+                ),
+              ],
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
