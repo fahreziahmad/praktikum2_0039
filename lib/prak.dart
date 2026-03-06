@@ -54,7 +54,7 @@ class SimpleStateless extends StatelessWidget {
                 ),
               ),
               const Text(
-                "Halooo Coba Statefull Widget",
+                "Halooo saya Fahrezi Ahmad Syahyana",
                 style: TextStyle(
                   fontSize: 14,
                   color: Colors.black38,
