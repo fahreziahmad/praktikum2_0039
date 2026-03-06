@@ -32,4 +32,6 @@ class SimpleStateless extends StatelessWidget {
             colors: [Colors.blue.shade50, const Color(0xFFD4E2F1)],
           ),
         ),
-       
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          
