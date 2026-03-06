@@ -7,3 +7,9 @@ class CounterManager extends StatefulWidget {
   State<CounterManager> createState() => _CounterManagerState();
 }
 
+class _CounterManagerState extends State<CounterManager> {
+  @override
+  Widget build(BuildContext context) {
+    return SimpleStateless();
+  }
+}
