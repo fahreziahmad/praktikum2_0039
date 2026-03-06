@@ -70,4 +70,14 @@ class SimpleStateless extends StatelessWidget {
                         color: Colors.blueGrey.shade800,
                       ),
                     ),
+                    const SizedBox(height: 10),
+                    Text(
+                      "Kelas A",
+                      style: TextStyle(
+                        letterSpacing: 2,
+                        fontSize: 15,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.blueGrey.shade800,
+                      ),
+                    ),
                     
