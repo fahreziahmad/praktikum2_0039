@@ -80,4 +80,14 @@ class SimpleStateless extends StatelessWidget {
                         color: Colors.blueGrey.shade800,
                       ),
                     ),
-                    
+                    const SizedBox(height: 120),
+                    Image.asset(
+                      'public/images/image.png',
+                      width: 200,
+                      height: 200,
+                    ),
+                  ],
+                ),
+              ),
+            ),
+           
