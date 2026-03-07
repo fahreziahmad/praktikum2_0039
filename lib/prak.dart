@@ -60,7 +60,7 @@ class SimpleStateless extends StatelessWidget {
                   color: Colors.black38,
                 ),
               ),
-              const SizedBox(height: 40),
+              const SizedBox(height: 50),
               
               // 2. Container Kartu Utama (Putih)
               Container(
